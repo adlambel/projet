@@ -1,0 +1,15 @@
+C:\Travail\CoursTD_IHM-master\Library\bin\Debug\Library.dll
+C:\Travail\CoursTD_IHM-master\Library\bin\Debug\Library.pdb
+C:\Travail\CoursTD_IHM-master\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Travail\CoursTD_IHM-master\Library\obj\Debug\Library.dll
+C:\Travail\CoursTD_IHM-master\Library\obj\Debug\Library.pdb
+U:\CoursTD_IHM-master\Library\bin\Debug\Library.dll
+U:\CoursTD_IHM-master\Library\bin\Debug\Library.pdb
+U:\CoursTD_IHM-master\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+U:\CoursTD_IHM-master\Library\obj\Debug\Library.dll
+U:\CoursTD_IHM-master\Library\obj\Debug\Library.pdb
+C:\Users\Adrien\Downloads\CoursTD_IHM-master\CoursTD_IHM-master\Library\bin\Debug\Library.dll
+C:\Users\Adrien\Downloads\CoursTD_IHM-master\CoursTD_IHM-master\Library\bin\Debug\Library.pdb
+C:\Users\Adrien\Downloads\CoursTD_IHM-master\CoursTD_IHM-master\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Adrien\Downloads\CoursTD_IHM-master\CoursTD_IHM-master\Library\obj\Debug\Library.dll
+C:\Users\Adrien\Downloads\CoursTD_IHM-master\CoursTD_IHM-master\Library\obj\Debug\Library.pdb
